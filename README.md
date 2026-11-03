@@ -7,14 +7,14 @@
 **Finanze, agenda, task e note personali in un unico posto.**
 Per Android e Windows.
 
-[![Ultima versione](https://img.shields.io/github/v/release/andre-xii/lifedesk?style=for-the-badge&color=7c5cff&label=versione)](https://github.com/andre-xii/lifedesk/releases/latest)
-[![Download](https://img.shields.io/github/downloads/andre-xii/lifedesk/total?style=for-the-badge&color=34d399&label=download)](https://github.com/andre-xii/lifedesk/releases)
+[![Ultima versione](https://img.shields.io/github/v/release/UTENTE/NOME-REPO?style=for-the-badge&color=7c5cff&label=versione)](https://github.com/UTENTE/NOME-REPO/releases/latest)
+[![Download](https://img.shields.io/github/downloads/UTENTE/NOME-REPO/total?style=for-the-badge&color=34d399&label=download)](https://github.com/UTENTE/NOME-REPO/releases)
 ![Piattaforme](https://img.shields.io/badge/piattaforme-Android%20%7C%20Windows-60a5fa?style=for-the-badge)
 
-### [⬇️ Vai alla pagina di download](https://andre-xii.github.io/lifedesk/)
+### [⬇️ Vai alla pagina di download](https://UTENTE.github.io/NOME-REPO/)
 
-[📱 Scarica APK (Android)](https://github.com/andre-xii/lifedesk/releases/latest/download/LifeDesk.apk) ·
-[🖥️ Scarica per Windows](https://github.com/andre-xii/lifedesk/releases/latest/download/LifeDesk-Setup.exe)
+[📱 Scarica APK (Android)](https://github.com/UTENTE/NOME-REPO/releases/latest/download/LifeDesk.apk) ·
+[🖥️ Scarica per Windows](https://github.com/UTENTE/NOME-REPO/releases/latest/download/LifeDesk-Setup.exe)
 
 </div>
 
@@ -29,7 +29,7 @@ Per Android e Windows.
 | 🧮 **Disponibilità e risparmi** | La Home mostra la disponibilità totale, i risparmi a parte e il patrimonio netto. |
 | 📊 **Insights** | Analisi di entrate e uscite, grafici degli ultimi mesi e riepilogo mensile. |
 | 📅 **Agenda e task** | Eventi, cose da fare con scadenza e priorità, e la finestra "Oggi" per vedere subito la giornata. |
-| 🔖 **Spazio personale** | Appunti, link e checklist con formattazione, tag e note riservate protette dalla biometria. |
+| 🔖 **Spazio personale** | Appunti, link e checklist con formattazione, tag e note riservate protette dalla biometria. Vista a elenco + pannello oppure a card. |
 | 🔔 **Promemoria** | Notifiche per scadenze e pagamenti in arrivo (Android). |
 | 📄 **Esportazione** | Report PDF e export dei tuoi dati. |
 | 🌍 **Multi-valuta** | Euro, dollaro, sterlina e franco svizzero. |
@@ -42,7 +42,7 @@ Per Android e Windows.
 ### 🖥️ Su Windows
 - **Mini finestra "Oggi"** sempre in primo piano con le task del giorno.
 - Avvio automatico con Windows: finestra normale, icona nelle icone nascoste, oppure solo la mini finestra.
-- Installazione per l'andre-xii attuale o per tutti gli utenti.
+- Installazione per l'utente attuale o per tutti gli utenti.
 
 ---
 
@@ -51,7 +51,7 @@ Per Android e Windows.
 <details open>
 <summary><b>📱 Android</b></summary>
 
-1. Scarica **LifeDesk.apk** dalla [pagina di download](https://andre-xii.github.io/lifedesk/) o dalle [release](https://github.com/andre-xii/lifedesk/releases/latest).
+1. Scarica **LifeDesk.apk** dalla [pagina di download](https://UTENTE.github.io/NOME-REPO/) o dalle [release](https://github.com/UTENTE/NOME-REPO/releases/latest).
 2. Aprilo. Se richiesto, consenti **"Installa app da questa fonte"** al browser.
 3. Conferma l'installazione. Se compare un avviso di Play Protect, scegli **"Installa comunque"**.
 
@@ -78,7 +78,7 @@ LifeDesk controlla da solo se esiste una versione più nuova e te lo segnala all
 - **Windows:** scarica l'installer, lo avvia in silenzio e riapre l'app aggiornata.
 - **Android:** scarica l'APK e apre l'installazione di sistema.
 
-Le versioni precedenti e le novità di ognuna sono nella sezione [**Releases**](https://github.com/andre-xii/lifedesk/releases).
+Le versioni precedenti e le novità di ognuna sono nella sezione [**Releases**](https://github.com/UTENTE/NOME-REPO/releases).
 
 ---
 
@@ -94,7 +94,7 @@ Sì. Al primo accesso crei un account con la tua email e i tuoi dati restano leg
 <details>
 <summary><b>Dove sono salvati i miei dati?</b></summary>
 
-Su un database cloud personale (Supabase), protetto da regole di accesso per andre-xii. Le note dello Spazio personale non sono cifrate end-to-end: meglio non salvarci password o PIN delle carte.
+Su un database cloud personale (Supabase), protetto da regole di accesso per utente. Le note dello Spazio personale non sono cifrate end-to-end: meglio non salvarci password o PIN delle carte.
 
 </details>
 
@@ -123,7 +123,7 @@ Al momento no: le versioni disponibili sono Android e Windows.
 
 ## 🛠️ Segnalazioni e idee
 
-Hai trovato un problema o hai un'idea? Apri una [**segnalazione**](https://github.com/andre-xii/lifedesk/issues) indicando dispositivo, versione dell'app e cosa è successo.
+Hai trovato un problema o hai un'idea? Apri una [**segnalazione**](https://github.com/UTENTE/NOME-REPO/issues) indicando dispositivo, versione dell'app e cosa è successo.
 
 ---
 
