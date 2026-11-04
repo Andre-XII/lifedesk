@@ -23,7 +23,7 @@ Per Android e Windows.
 | | |
 |---|---|
 | 💶 **Finanze** | Conti, movimenti, trasferimenti tra conti, scadenze e pagamenti ricorrenti, tutto in un colpo d'occhio. |
-| 📈 **Investimenti** | Portfolio e piani di accumulo (PAC) con l'andamento nel tempo. |
+| 📈 **Investimenti** | Portfolio e piani di accumulo (PAC). Controllo mensile: a fine mese ti ricorda di inserire il valore dei piani e calcola profitti, perdite e storico con grafico. |
 | 🧮 **Disponibilità e risparmi** | La Home mostra la disponibilità totale, i risparmi a parte e il patrimonio netto. |
 | 📊 **Insights** | Analisi di entrate e uscite, grafici degli ultimi mesi e riepilogo mensile. |
 | 📅 **Agenda e task** | Eventi, cose da fare con scadenza e priorità, e la finestra "Oggi" per vedere subito la giornata. |
@@ -40,7 +40,7 @@ Per Android e Windows.
 ### 🖥️ Su Windows
 - **Mini finestra "Oggi"** sempre in primo piano con le task del giorno.
 - Avvio automatico con Windows: finestra normale, icona nelle icone nascoste, oppure solo la mini finestra.
-- Installazione per l'andre-xii attuale o per tutti gli utenti.
+- Installazione per l'utente attuale o per tutti gli utenti.
 
 ---
 
@@ -92,7 +92,7 @@ Sì. Al primo accesso crei un account con la tua email e i tuoi dati restano leg
 <details>
 <summary><b>Dove sono salvati i miei dati?</b></summary>
 
-Su un database cloud personale (Supabase), protetto da regole di accesso per andre-xii. Le note dello Spazio personale e i loro allegati sono privati ma non cifrati end-to-end: meglio non salvarci password, PIN delle carte o documenti d'identità.
+Su un database cloud personale (Supabase), protetto da regole di accesso per utente. Le note dello Spazio personale e i loro allegati sono privati ma non cifrati end-to-end: meglio non salvarci password, PIN delle carte o documenti d'identità.
 
 </details>
 
