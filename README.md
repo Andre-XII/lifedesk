@@ -8,7 +8,6 @@
 Per Android e Windows.
 
 [![Ultima versione](https://img.shields.io/github/v/release/andre-xii/lifedesk?style=for-the-badge&color=7c5cff&label=versione)](https://github.com/andre-xii/lifedesk/releases/latest)
-[![Download](https://img.shields.io/github/downloads/andre-xii/lifedesk/total?style=for-the-badge&color=34d399&label=download)](https://github.com/andre-xii/lifedesk/releases)
 ![Piattaforme](https://img.shields.io/badge/piattaforme-Android%20%7C%20Windows-60a5fa?style=for-the-badge)
 
 ### [⬇️ Vai alla pagina di download](https://andre-xii.github.io/lifedesk/)
@@ -22,8 +21,8 @@ Per Android e Windows.
 
 | | |
 |---|---|
-| 💶 **Finanze** | Conti, movimenti, trasferimenti tra conti, scadenze e pagamenti ricorrenti, tutto in un colpo d'occhio. |
-| 📈 **Investimenti** | Portfolio e piani di accumulo (PAC). Controllo mensile: a fine mese ti ricorda di inserire il valore dei piani e calcola profitti, perdite e storico con grafico. |
+| 💶 **Finanze** | Conti, movimenti, trasferimenti tra conti, scadenze e pagamenti ricorrenti, tutto in un colpo d'occhio. Sul conto risparmio il saldo di fine mese con il calcolo degli spiccioli. |
+| 📈 **Investimenti** | Piani di accumulo (PAC) e investimenti singoli (oro, obbligazioni, fondi, immobili…). Controllo mensile: a fine mese ti ricorda di inserire il valore e calcola profitti, perdite e storico con grafico. |
 | 🧮 **Disponibilità e risparmi** | La Home mostra la disponibilità totale, i risparmi a parte e il patrimonio netto. |
 | 📊 **Insights** | Analisi di entrate e uscite, grafici degli ultimi mesi e riepilogo mensile. |
 | 📅 **Agenda e task** | Eventi, cose da fare con scadenza e priorità, e la finestra "Oggi" per vedere subito la giornata. |
