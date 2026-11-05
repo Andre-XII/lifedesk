@@ -122,6 +122,8 @@ Al momento no: le versioni disponibili sono Android e Windows.
 
 Hai trovato un problema o hai un'idea? Apri una [**segnalazione**](https://github.com/andre-xii/lifedesk/issues) indicando dispositivo, versione dell'app e cosa è successo.
 
+Preferisci scrivere? L'assistenza è su **[support.lifedesk@gmail.com](mailto:support.lifedesk@gmail.com)**.
+
 ---
 
 <div align="center">
